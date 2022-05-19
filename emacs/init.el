@@ -116,9 +116,6 @@
 
 (when (display-graphic-p)
   (require 'all-the-icons))
-;; or
-(use-package all-the-icons
-  :if (display-graphic-p))
 
 (treemacs)
 
