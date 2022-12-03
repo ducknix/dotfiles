@@ -1,6 +1,0 @@
-picom&
-feh --bg-scale ~/Images/wallpaper.jpg&
-tint2 -c ~/.config/tint2/minima.tint2rc&
-keepassxc&
-syncthing --no-browser&
-volumeicon&
