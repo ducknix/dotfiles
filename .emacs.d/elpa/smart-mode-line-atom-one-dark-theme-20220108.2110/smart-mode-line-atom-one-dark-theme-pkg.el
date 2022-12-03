@@ -1,0 +1,2 @@
+;;; Generated package description from smart-mode-line-atom-one-dark-theme.el  -*- no-byte-compile: t -*-
+(define-package "smart-mode-line-atom-one-dark-theme" "20220108.2110" "Atom-one-dark theme for smart-mode-line" '((emacs "24.3") (smart-mode-line "2.10")) :commit "8ce6cca51b19395ccdd8f33a54419fa539f837f0" :authors '(("Davide Restivo" . "davide.restivo@yahoo.it")) :maintainer '("Davide Restivo" . "davide.restivo@yahoo.it") :keywords '("mode-line" "themes" "faces") :url "https://github.com/daviderestivo/smart-mode-line-atom-one-dark-theme")

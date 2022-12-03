@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+picom &
+setxkbmap tr &
+feh --bg-scale ~/Images/darkside.png &
+/home/mouv/.config/polybar/launch.sh --docky &
+plank &
